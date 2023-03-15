@@ -1,2 +1,3 @@
+StoreRy
 
-<a hfer= "https://ryukicarvalho.github.io/playstoreruuu/">clique Aqui</a>
+<a hfer= "https://ryukicarvalho.github.io/StoreRyu/">clique Aqui</a>
